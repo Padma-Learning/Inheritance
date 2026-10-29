@@ -1,0 +1,11 @@
+package com.learn.marvel.heros;
+
+import com.learn.marvel.base.Person;
+
+public class CaptainAmerica extends Person {
+
+    public void usePower(){
+
+        System.out.println("CaptainAmerica is using his power");
+    }
+}
